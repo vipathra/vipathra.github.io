@@ -1,7 +1,7 @@
 site_name: Vipathra™
 site_url: https://www.vipathra.in
 site_author: Vipathra™
-site_description: Vipathra Website
+site_description: An electronic invoicing platform.
 theme:
   name: material
   language: en
